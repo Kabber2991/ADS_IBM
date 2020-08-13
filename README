@@ -1,0 +1,3 @@
+This was done as a part of the IBM Advanced Data Science course, and it is the final capstone project.
+
+This project is focused on the localization and classification of different skin conditions, based on pictures taken of the condition. The data is gathered from the ISIC Archive, that contains several studies with a total of 20.000+ pictures.
